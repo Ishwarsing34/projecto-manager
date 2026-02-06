@@ -83,7 +83,7 @@ A full-stack project management platform that allows teams to collaborate effici
 ## 📸 Application Preview
 
 ### Dashboard
-_Add screenshot here_
+
 
 <img width="1902" height="907" alt="image" src="https://github.com/user-attachments/assets/25a03ebd-7ad5-4e52-a6c3-36bc31e650f4" />
 
@@ -94,7 +94,7 @@ _Add screenshot here_
 ---
 
 ### Workspace View
-_Add screenshot here_
+
 
 <img width="358" height="398" alt="image" src="https://github.com/user-attachments/assets/1f466095-70ef-42f0-b9b7-4e0346d05a2a" />
 
@@ -102,7 +102,6 @@ _Add screenshot here_
 ---
 
 ### Project & Task Management
-_Add screenshot here_
 
 <img width="1877" height="907" alt="image" src="https://github.com/user-attachments/assets/d204e49d-5bf9-4d4a-9284-8beba2f47eba" />
 
@@ -111,13 +110,20 @@ _Add screenshot here_
 ---
 
 ### Analytics
-_Add screenshot here_
+
 
 <img width="1472" height="891" alt="image" src="https://github.com/user-attachments/assets/a0a6e20f-6a6b-4bd1-8153-f9074387b21e" />
 
 
 
+
+
+
 <img width="1861" height="923" alt="image" src="https://github.com/user-attachments/assets/6ac2b2e5-15fc-46d7-9325-9482b9840ad2" />
+
+
+
+
 
 
 

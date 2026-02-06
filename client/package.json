@@ -13,6 +13,7 @@
     "@clerk/clerk-react": "^5.60.0",
     "@reduxjs/toolkit": "^2.8.2",
     "@tailwindcss/vite": "^4.1.12",
+    "axios": "^1.13.4",
     "date-fns": "^4.1.0",
     "lucide-react": "^0.540.0",
     "react": "^19.1.1",

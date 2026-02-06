@@ -77,6 +77,8 @@ export const createTask = async (req, res) => {
 
 
 // Update task
+
+
 export const updateTask = async (req, res) => {
     try {
         const task = await prisma.task.findUnique({

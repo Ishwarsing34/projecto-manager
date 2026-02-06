@@ -1,4 +1,7 @@
 // Create project
+import prisma from "../configs/prisma.js";
+  
+
 
 export const createProject = async (req, res) => {
   try {
